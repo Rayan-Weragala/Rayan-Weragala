@@ -1,5 +1,4 @@
-👋 Hey there, I'm Rayan Weragala!
-
+### Hi there 👋, Rayan Weragala
 🎓 An enthusiastic undergraduate student diving into the exciting world of software development. My coding journey began with Java, C, and C++, and I've been on a quest to master languages like PHP, HTML, and CSS for crafting engaging web experiences. Exploring Kotlin has also allowed me to venture into the realm of Android app development.
 
 🔍 I thrive on challenges and love transforming concepts into functional code. Whether it's tackling intricate algorithms or designing user-friendly interfaces, I'm dedicated to building solutions that blend innovation with practicality.
@@ -10,5 +9,12 @@
 
 📧 Email: rayanthilakshana2000@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayan-Weragala)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Java/JS/HTML/CSS/C/C++//Kotlin
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rayan-Weragala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rayan-Weragala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rayan-Weragala)  
+
+
+
+
+
 
