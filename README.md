@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Rayan Weragala
-🎓 An enthusiastic undergraduate student diving into the exciting world of software development. My coding journey began with PHP, HTML, and CSS, and C. I've been on a quest to master languages like Python, Java, Kotlin, R and for crafting engaging web experiences. Exploring Kotlin has also allowed me to venture into the realm of Android app development.
+🎓 An enthusiastic undergraduate student diving into the exciting world of software development. My coding journey began with PHP, HTML, and CSS, and C. I've been on a quest to master languages like Python, Java, Kotlin and Javascript for crafting engaging web experiences. Exploring Kotlin has also allowed me to venture into the realm of Android app development.
 
 🔍 I thrive on challenges and love transforming concepts into functional code. Whether it's tackling intricate algorithms or designing user-friendly interfaces, I'm dedicated to building solutions that blend innovation with practicality.
 
