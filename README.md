@@ -8,7 +8,6 @@
 🌐 Connect with me as I navigate this exciting journey, share experiences, and explore the endless possibilities that software development offers.
 
 📧 Email: rayanthilakshana2000@gmail.com
-<div>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rayan-Weragala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rayan-Weragala/)  </div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
