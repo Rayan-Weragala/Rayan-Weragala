@@ -1,4 +1,4 @@
-![logo]([https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.4ac44c8eed874188ed4b2babebe78942?rik=xPpcCkWBOMyCTw&pid=ImgRaw&r=0))
+![logo](https://c.tenor.com/gYDr3NtUTt0AAAAC/matrix-code.gif)
 ### Hi there 👋,I'm Rayan Weragala
 🎓 An enthusiastic undergraduate student diving into the exciting world of software development. My coding journey began with PHP, HTML, and CSS, and C. I've been on a quest to master languages like Python,R, Java, Kotlin and Javascript for crafting engaging web experiences. Exploring Kotlin has also allowed me to venture into the realm of Android app development.
 
