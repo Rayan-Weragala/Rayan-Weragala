@@ -9,9 +9,10 @@
 🌐 Connect with me as I navigate this exciting journey, share experiences, and explore the endless possibilities that software development offers.
 
 📧 Email: rayanthilakshana2000@gmail.com
+<br />
 
-
-
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,sass,tailwind,react,vite,nextjs,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,spring,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,eclipse,ps,figma)](https://skillicons.dev)
 
 
 
